@@ -6,5 +6,5 @@ I’m preparing for graduation and focusing on strengthening my skills in the to
 
 Tools I use: 
 
-React · Next.js · TypeScript · Node.js · Express · MongoDB · Firebase · Git · GitHub · Docker · Python · Selenium · Pandas · Figma · Blender
+React · Next.js · TypeScript · Node.js · Express · MongoDB · Firebase · GitHub · Docker · Figma · Blender
 
