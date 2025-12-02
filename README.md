@@ -8,3 +8,6 @@ Tools I use:
 
 React · Next.js · TypeScript · Node.js · Express · MongoDB · Firebase · GitHub · Docker · Figma · Blender
 
+A Bit About Me
+- i love cats even though i'm unfortunately allergic to them.
+
