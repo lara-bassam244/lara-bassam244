@@ -5,5 +5,6 @@ I'm Lara, a software engineer and Computer Science student who loves designing c
 I’m preparing for graduation and focusing on strengthening my skills in the tools I use daily. I’m also refining my full-stack projects and improving my overall development workflow.
 
 Tools I use: 
+
 React · Next.js · TypeScript · Node.js · Express · MongoDB · Firebase · Git · GitHub · Docker · Python · Selenium · Pandas · Figma · Blender
 
